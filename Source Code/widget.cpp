@@ -17,7 +17,7 @@ Widget::Widget(QWidget *parent)
   connect(confirm_btn, SIGNAL(clicked()), this, SLOT(Go()));
 
   this->setWindowOpacity(0.9);
-  this->setWindowTitle("DevFinder v1.1.0");
+  this->setWindowTitle("DevFinder 2");
   this->setFixedHeight(100);
   this->setFixedWidth(250);
 }
