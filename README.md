@@ -2,6 +2,7 @@
 <p>A tool for more useful function of Finder in MacOS X </p>
 
 ##Download:
+ http://7xpoh1.dl1.z0.glb.clouddn.com/DevFinder.app.zip
 
 ##Features:
 ###Introduction:
