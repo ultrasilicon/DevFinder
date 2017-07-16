@@ -9,6 +9,7 @@
 <p>In finder, you may have tried to view the hidden files. Then you found a long command to type into the Terminal.</p>
 <p>This is the software to realize this function by One Click.</p>
 <p>Not only can it show the hidden files, but also the full path on the title bar.</p>
+
 ###Main Functions:
 · show hidden files
 · show full path
